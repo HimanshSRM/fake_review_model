@@ -1,0 +1,16 @@
+Review,Product,Model,Prediction,Confidence
+It is good and working .,Laptop,Both,Fake,99.47%
+It is good and working .,Laptop,Deep Model,Fake,99.47%
+It is good and working .,Laptop,Fast Model,Fake,N/A
+Best purchase Ever !,Laptop,Both,Fake,99.17%
+It was a good product. Though the processing speed wasn't up to the mark.,Laptop,Both,Fake,98.62%
+It was a good product. Though the processing speed wasn't up to the mark.,Laptop,Deep Model,Fake,98.62%
+It was a good product. Though the processing speed wasn't up to the mark.,Phone,Deep Model,Fake,98.62%
+It was a good product. Though the processing speed wasn't up to the mark.,Phone,Both,Fake,98.62%
+It was a good product but the processing speed was not up to the mark.,Phone,Both,Fake,99.64%
+It was a good product .,Phone,Both,Fake,99.82%
+Best product !,Phone,Both,Fake,99.54%
+.............................,Phone,Both,Fake,99.99%
+well,Phone,Both,Fake,99.74%
+I love the product .,Phone,Both,Fake,99.87%
+best,Shoes,Both,Fake,99.04%
